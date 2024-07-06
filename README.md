@@ -1,7 +1,3 @@
-# Amazon-Delivery-Time-Prediction
-Certainly! Here's a README template you can use for the "amazon_delivery.csv" dataset on GitHub:
-
----
 
 # Amazon Delivery Dataset
 
