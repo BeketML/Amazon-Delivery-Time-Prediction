@@ -48,4 +48,4 @@ Include details about the licensing of the dataset, if applicable.
 
 ---
 
-Feel free to customize this template further based on specific details or additional information you have about the dataset. This README provides a clear and structured overview that will help users understand and effectively utilize the Amazon Delivery Dataset on GitHub.
+DATASET LINK: https://www.kaggle.com/datasets/sujalsuthar/amazon-delivery-dataset/data?select=amazon_delivery.csv
